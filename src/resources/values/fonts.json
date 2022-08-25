@@ -1,0 +1,12 @@
+{
+
+    "defaultFontFamily" : "'Roboto', sans-serif",
+
+    "defaultItemDataFontSize" : 18,
+    "defaultInputFontSize" : 20,
+    "bigDataFontSize" : 24,
+    "bigButtonFontSize" : 24,
+    "smallDataFontSize" : 12
+
+
+}

@@ -1,0 +1,12 @@
+{
+
+    "order_label" : "Pedido",
+    "insert_order_placeholder" : "Insira a PO",
+    "search_order_button" : "Buscar",
+    "scan_done" : "Visualizar",
+    "registers_not_found" : "Registros não encontrados.",
+    "api_connection_error" : "Erro de conexão com a API.",
+    "scan_screen_name" : "Scan",
+    "results_screen_name" : "Visualizar"
+
+}

@@ -1,0 +1,57 @@
+{
+
+    "primary" : "rgba( 0, 35, 110, 0.8 )",
+    "primaryLight" : "rgba( 0, 35, 110, 0.6 )",
+    "primaryDark" : "rgba( 0, 35, 110, 1 )",
+
+    "secondary" : "#FC1414",
+    "secondaryLight" : "rgba( 255, 17, 0, 0.6 )",
+    "secondaryDark" : "rgba( 255, 17, 0, 1 )",
+
+    "defaultBackground" : "rgba( 255, 255, 255, 1)",
+
+    "text" : "rgba( 0, 0, 0, 1 )",
+    "textLight" : "rgba( 255, 255, 255, 1 )",
+
+    "inputBackground" : "rgba( 122, 122, 122, 0.2 )",
+    "inputBackgroundLight" : "rgba( 122, 122, 122, 0.1 )",
+    "inputBackgroundDark" : "rgba( 122, 122, 122, 0.4 )",
+    "inputBackgroundDarker" : "rgba( 122, 122, 122, 1 )",
+
+    "inputPlaceholder" : "rgba( 122, 122, 122, 0.7 )",
+    "inputPlaceholderLight" : "rgba( 122, 122, 122, 0.3 )",
+    "inputPlaceholderDark" : "rgba( 0, 0, 0, 0.6 )",
+
+    "placeholder" : "rgba( 255, 17, 0, 0.8 )",
+    "placeholderAlternative" : "#8F8F8F",
+
+    "black" : "rgba( 0, 0, 0, 1 )",
+    "white" : "rgba( 255, 255, 255, 1)",
+    "gray" : "rgba( 122, 122, 122, 1 )",
+    "grayLight" : "rgba( 122, 122, 122, 0.1 )",
+
+    "grayAlternative" : "rgba( 209, 209, 209, 0.7 )",
+    "grayAlternativeLight" : "rgba( 209, 209, 209, 0.5 )",
+
+    "statusRed" : "#b50018bf",
+    "statusYellow" : "#fbff00bf",
+    "statusGreen" : "#4dff00bf",
+
+    "red" : "rgba( 170, 0, 0, 1 )",
+    "green" : "rgba( 0, 181, 18, 1 )",
+    "orange" : "rgba( 240, 144, 0, 1 )",
+    "yellow" : "rgba( 255, 227, 84, 1 )",
+
+    "blue" : "rgba( 0, 197, 227, 1 )",
+    "blueLight" : "rgba( 4, 112, 184, 1 )",
+    "blueDark" : "rgba( 0, 29, 125, 1 )",
+
+    "brown" : "rgba( 99, 58, 0, 1 )",
+    "purple" : "rgba( 129, 84, 171, 1 )",
+
+    "powerBiOrange" : "rgba( 242, 200, 17, 1 )",
+
+    "frameRed" : "rgba( 250, 68, 70, 1 )",
+    "frameGreen" : "rgba( 38, 211, 129, 1 )"
+
+}
