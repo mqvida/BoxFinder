@@ -1,0 +1,1 @@
+# Desenvolvimento de aplicação mobile par localização de caixas utilizando o SDK da Scandit
